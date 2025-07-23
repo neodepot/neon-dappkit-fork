@@ -52,6 +52,8 @@ Neon-Dappkit has 4 main components:
 - [NeonEventListener](https://github.com/CityOfZion/neon-dappkit/blob/main/packages/neon-dappkit/NEON-EVENT-LISTENER.md): Listen to events from the Neo3 Blockchain.
 
 Check out some examples in [examples folder](https://github.com/CityOfZion/neon-dappkit/packages/neon-dappkit/examples)
+including the `txFeeAnalyzer` sample that breaks down transaction opcode usage via
+a small web interface.
 
 
 ## Quick Example
